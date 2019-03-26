@@ -13,3 +13,6 @@
 ## 6 Q Learning
 
 用强化学习让小球走迷宫，不过QL在迷宫变大的时候基本就用不了了，需要超长的时间才能稳定
+
+## 7 Photo_GPS
+read EXIF info and added to pics
